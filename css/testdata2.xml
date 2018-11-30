@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LOL>
+	<FEAT>
+		<OID>1</OID>
+		<OID>a</OID>
+		<X>10.763848</X>
+		<Y>59.246206</Y>
+	</FEAT>
+	<FEAT>
+		<OID>2</OID>
+		<OID>b</OID>
+		<X>10.90856</X>
+		<Y>59.116319</Y>
+	</FEAT>
+	<FEAT>
+		<OID>3</OID>
+		<OID>c</OID>
+		<X>10.907527</X>
+		<Y>59.116253</Y>
+	</FEAT>
+	<FEAT>
+		<OID>4</OID>
+		<OID>d</OID>
+		<X>10.907309</X>
+		<Y>59.11624</Y>
+	</FEAT>
+	<FEAT>
+		<OID>5</OID>
+		<OID>e</OID>
+		<X>10.906848</X>
+		<Y>59.11621</Y>
+	</FEAT>
+	<FEAT>
+		<OID>6</OID>
+		<OID>f</OID>
+		<X>10.902807</X>
+		<Y>59.115955</Y>
+	</FEAT>
+	<FEAT>
+		<OID>7</OID>
+		<OID>g</OID>
+		<X>10.90134</X>
+		<Y>59.115862</Y>
+	</FEAT>
+	<FEAT>
+		<OID>8</OID>
+		<OID>h</OID>
+		<X>10.901204</X>
+		<Y>59.115853</Y>
+	</FEAT>
+	<FEAT>
+		<OID>9</OID>
+		<OID>i</OID>
+		<X>10.900081</X>
+		<Y>59.115782</Y>
+	</FEAT>
+	<FEAT>
+		<OID>10</OID>
+		<OID>j</OID>
+		<X>10.900073</X>
+		<Y>59.115782</Y>
+	</FEAT>
+</LOL>
+
+
